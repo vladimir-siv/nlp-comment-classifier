@@ -1,0 +1,4 @@
+jacobm001/dbt-mssql	dbt/include/mssql/macros/adapters.sql	110	https://github.com/jacobm001/dbt-mssql/blob/master/dbt/include/mssql/macros/adapters.sql
+jacobm001/dbt-mssql	dbt/include/mssql/macros/indexes.sql	138	https://github.com/jacobm001/dbt-mssql/blob/master/dbt/include/mssql/macros/indexes.sql
+jacobm001/dbt-mssql	dbt/include/mssql/macros/materializations/incremental/incremental.sql	82	https://github.com/jacobm001/dbt-mssql/blob/master/dbt/include/mssql/macros/materializations/incremental/incremental.sql
+jacobm001/dbt-mssql	dbt/include/mssql/macros/materializations/seed/seed.sql	40	https://github.com/jacobm001/dbt-mssql/blob/master/dbt/include/mssql/macros/materializations/seed/seed.sql
