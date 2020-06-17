@@ -1,4 +1,5 @@
 import preprocessing.preprocessing as preprocessing
+import percentage_calc.percentage_calc as percentage_calc
 import classifiers.multinomial_NB as multinomialNB
 import classifiers.bernoulli_NB as bernoulliNB
 import classifiers.SVC as SVC
@@ -19,13 +20,12 @@ def apply_all_classifiers(which_comments):
 
     # 3.
     SVC.support_vector_classifier(which_comments)
-    
+
     # 4.
     logistic_regression.logistic_regression(which_comments)
 
 
-def main():
-
+def main_execution():
     for i in range(2):
         preprocessing.to_next_phase()
         if i == 0:
@@ -83,4 +83,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    option = int(input("Choose option? \n"
+                       "0 - main execution \n"
+                       "1 - calculate comment annotation similarity \n"))
+
+    if option == 0:
+        main_execution()
+    else:
+        percentage_calc.percentage_calculator()

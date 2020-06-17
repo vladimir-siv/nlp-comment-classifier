@@ -194,69 +194,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588887173529" />
-    <state x="932" y="111" width="488" height="537" key="#xdebugger.evaluate" timestamp="1589318524896">
+    <state x="600" y="158" width="488" height="537" key="#xdebugger.evaluate" timestamp="1592330936762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="932" y="111" width="488" height="537" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1589318524896" />
+    <state x="600" y="158" width="488" height="537" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1592330936762" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1588887171536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588887171536" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1589320225241">
+    <state width="1515" height="448" key="GridCell.Tab.0.bottom" timestamp="1592382870520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589320225241" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1589320225241">
+    <state width="1515" height="448" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592382870520" />
+    <state width="1515" height="448" key="GridCell.Tab.0.center" timestamp="1592382870520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589320225241" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1589320225241">
+    <state width="1515" height="448" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592382870520" />
+    <state width="1515" height="448" key="GridCell.Tab.0.left" timestamp="1592382870520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589320225241" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1589320225241">
+    <state width="1515" height="448" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592382870520" />
+    <state width="1515" height="448" key="GridCell.Tab.0.right" timestamp="1592382870520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589320225241" />
-    <state width="1493" height="243" key="GridCell.Tab.1.bottom" timestamp="1589320225236">
+    <state width="1515" height="448" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592382870520" />
+    <state width="1515" height="242" key="GridCell.Tab.1.bottom" timestamp="1592350446374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589320225236" />
-    <state width="1493" height="243" key="GridCell.Tab.1.center" timestamp="1589320225236">
+    <state width="1515" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592350446374" />
+    <state width="1515" height="242" key="GridCell.Tab.1.center" timestamp="1592350446374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589320225236" />
-    <state width="1493" height="243" key="GridCell.Tab.1.left" timestamp="1589320225236">
+    <state width="1515" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592350446374" />
+    <state width="1515" height="242" key="GridCell.Tab.1.left" timestamp="1592350446374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589320225236" />
-    <state width="1493" height="243" key="GridCell.Tab.1.right" timestamp="1589320225236">
+    <state width="1515" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592350446374" />
+    <state width="1515" height="242" key="GridCell.Tab.1.right" timestamp="1592350446374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589320225236" />
-    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1589318454768">
+    <state width="1515" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592350446374" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1592330927040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1589318454768" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589320259360">
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1592330927040" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592395334922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589320259360" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592395334922" />
     <state x="341" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589041092097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="341" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1589041092097" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <condition expression="which_comments == 'comments_bigram.xlsx'" language="Python" />
-          <url>file://$PROJECT_DIR$/classifiers/multinomial_NB.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

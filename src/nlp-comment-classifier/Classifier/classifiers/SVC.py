@@ -17,6 +17,7 @@ def compare_regularisation_functions(data_frame, rf, c=1):
 
     sss = StratifiedShuffleSplit(n_splits=10, test_size=0.1)
     index = 1
+    average = 0
     for train_index, test_index in sss.split(x, data_frame['Type']):
         x_train, x_test = x[train_index], x[test_index]
         y_train, y_test = data_frame['Type'][train_index], data_frame['Type'][test_index]
@@ -25,6 +26,7 @@ def compare_regularisation_functions(data_frame, rf, c=1):
         svc.fit(x_train, y_train)
 
         score = svc.score(x_test, y_test)
+        average = average + score
         print("Score({}) {}.: {:.2f}%".format(rf.upper(), index, score * 100), end=" ")
 
         if index == 5:
@@ -32,6 +34,7 @@ def compare_regularisation_functions(data_frame, rf, c=1):
         index += 1
 
     print()
+    print("Average: {:.2f}%".format(average / 10 * 100))
 
 
 def optimize_c_parameter(data_frame):

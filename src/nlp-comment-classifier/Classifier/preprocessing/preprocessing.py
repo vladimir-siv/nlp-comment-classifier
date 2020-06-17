@@ -1,21 +1,20 @@
 # Util classes
-import pandas as pd
 import re
-import numpy as np
 
-from numpy import mean
-from math import isnan
+import numpy as np
+import pandas as pd
+from nltk.corpus import stopwords
 
 # Stemming classes
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
+from numpy import mean
 
 # Preprocessing classes
 from sklearn import preprocessing
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer, TfidfTransformer
 
-
+# Global data
 first_phase = False
 X = None
 
@@ -98,7 +97,6 @@ def init_preprocessing():
     if first_phase:
         data_frame['Type'] = data_frame['Type'].apply(prepare_type_for_first_phase)
     data_frame = remove_outliers(data_frame)
-    data_frame = data_frame.drop_duplicates()
 
     # Transforming types to integer values
     if first_phase:

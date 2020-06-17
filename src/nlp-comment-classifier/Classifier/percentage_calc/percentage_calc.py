@@ -34,9 +34,9 @@ def percentage_calculator():
 
     def convert_index_to_name(index):
         if index == 0:
-            return "Jovan Stevanovic", data_frame_1
+            return "Vladimir Sivcev", data_frame_1
         if index == 1:
-            return "Vladimir Sivcev", data_frame_2
+            return "Jovan Stevanovic", data_frame_2
         if index == 2:
             return "Predrag Mitrovic", data_frame_3
         if index == 3:
